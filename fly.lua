@@ -102,7 +102,7 @@ TextLabel.Size = UDim2.new(0, 100, 0, 28)
 
 TextLabel.Font = Enum.Font.SourceSans
 
-TextLabel.Text = "FLY GUI V3"
+TextLabel.Text = "uçma Ekran V3"
 
 TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
 
