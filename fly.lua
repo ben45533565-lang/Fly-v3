@@ -40,7 +40,7 @@ Frame.Position = UDim2.new(0.100320168, 0, 0.379746825, 0)
 
 Frame.Size = UDim2.new(0, 190, 0, 57)
 
-up.Name = "up"
+up.Name = "Yukarı uç"
 
 up.Parent = Frame
 
@@ -56,7 +56,7 @@ up.TextColor3 = Color3.fromRGB(0, 0, 0)
 
 up.TextSize = 14.000
 
-down.Name = "down"
+down.Name = "Aşağı in"
 
 down.Parent = Frame
 
@@ -68,7 +68,7 @@ down.Size = UDim2.new(0, 44, 0, 28)
 
 down.Font = Enum.Font.SourceSans
 
-down.Text = "Aşağı"
+down.Text = "Aşağı in"
 
 down.TextColor3 = Color3.fromRGB(0, 0, 0)
 
@@ -134,7 +134,7 @@ plus.TextSize = 14.000
 
 plus.TextWrapped = true
 
-speed.Name = "speed"
+speed.Name = "hız"
 
 speed.Parent = Frame
 
